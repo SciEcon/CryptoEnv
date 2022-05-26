@@ -1,5 +1,7 @@
 # CryptoEnv
 
+__Supplementary resources, data, and code__
+
 [![DOI](https://zenodo.org/badge/471606671.svg)](https://zenodo.org/badge/latestdoi/471606671)
 
 This repository includes code and demo for `CryptoEnv` project. `CryptoEnv` is a Python library for cryptocurrency researches by agent-based methods, including non-reinforcement learning and reinforcement learning algorithms.
