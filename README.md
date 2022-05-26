@@ -11,7 +11,7 @@ This repository includes code and demo for `CryptoEnv` project. `CryptoEnv` is a
 This repository includes submodules. To download,
 
 ```shell
-git clone https://github.com/sciecon/cryptoenv.git && cd cryptoenv
+git clone --recursive https://github.com/sciecon/cryptoenv.git && cd cryptoenv
 git submodule update
 ```
 
