@@ -6,6 +6,15 @@ __Supplementary resources, data, and code__
 
 This repository includes code and demo for `CryptoEnv` project. `CryptoEnv` is a Python library for cryptocurrency researches by agent-based methods, including non-reinforcement learning and reinforcement learning algorithms.
 
+## Download
+
+This repository includes submodules. To download,
+
+```shell
+git clone https://github.com/sciecon/cryptoenv.git && cd cryptoenv
+git submodule update
+```
+
 ## Documentation
 
 The documentation for the package is available at [cryptoenv.sciecon.org](cryptoenv.sciecon.org)
